@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2367" started-at="2022-03-26T02:33:36Z" finished-at="2022-03-26T02:33:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2367" started-at="2022-03-26T02:33:36Z" finished-at="2022-03-26T02:33:39Z">
+      <class name="test1.Loginusingpombusinesslogic">
+        <test-method status="PASS" signature="Login()[pri:0, instance:test1.Loginusingpombusinesslogic@d8355a8]" name="Login" duration-ms="2353" started-at="2022-03-26T08:03:36Z" finished-at="2022-03-26T08:03:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- test1.Loginusingpombusinesslogic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
